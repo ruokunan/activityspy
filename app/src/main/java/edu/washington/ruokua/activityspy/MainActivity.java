@@ -54,9 +54,14 @@ public class MainActivity extends ActionBarActivity {
 
     @Override
     protected void onDestroy() {
-        super.onDestroy();
         Log.i(TAG, "onDestroy event fired.");
         Log.e(TAG, "We're going down, Captain!");
+        super.onDestroy();
+
+
+
+
+
     }
 
     @Override
