@@ -1,1 +1,21 @@
-
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+I/edu.washington.ruokua.activityspy.MainActivity(15400): onPause event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15400): onStop event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15400): onRestart event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15400): onStart event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15400): onResume event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15400): onPause event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15400): onStop event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15400): onRestart event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15400): onStart event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15400): onResume event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15400): onPause event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15400): onStop event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15795): onCreate event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15795): onStart event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15795): onResume event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15795): onPause event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15795): onStop event fired.
+I/edu.washington.ruokua.activityspy.MainActivity(15795): onDestroy event fired.
+E/edu.washington.ruokua.activityspy.MainActivity(15795): We're going down, Captain!
